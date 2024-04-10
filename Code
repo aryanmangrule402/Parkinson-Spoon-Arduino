@@ -1,6 +1,3 @@
-
-@hinduaryan2836
-5 months ago
 #include <Wire.h>
 #include <Servo.h>
 
